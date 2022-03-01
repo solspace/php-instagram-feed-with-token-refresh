@@ -22,6 +22,7 @@ This script assumes that you will take care of the following:
 - FTP access to the server
 - Ability to parse JSON using Javascript to populate HTML elements on a web page
 - Completion of this Instagram tutorial: [Get Started With The Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started)
+- Set up something to ping the script each day to maintain fresh tokens and feed.
 
 ## Get Started
 
