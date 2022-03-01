@@ -12,7 +12,7 @@ The new API endpoint looks like this:
 
 `https://graph.instagram.com/`
 
-The new Instagram API requires modern day access tokens. You can get a short-lived access token for one hour. But for practical purposes you need to get a long-lived token and refresh it prior to it expiring in 90 days.
+The new Instagram API requires modern day OAuth access tokens. You can get a short-lived access token for one hour. But for practical purposes you need to get a long-lived token and refresh it prior to it expiring in 90 days.
 
 This script handles the token management as well as feed fetch for you. The output of the script is the JSON response returned by the Instagram API. The script uses your server's file system to cache the feed for 24 hours. The script also keeps your access token fresh on a daily basis.
 
