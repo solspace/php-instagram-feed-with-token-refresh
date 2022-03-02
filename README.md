@@ -1,6 +1,6 @@
 # PHP Instagram Feed With Token Refresh
 
-This script grabs the most recent Instagram posts from a specified account so that you can display them on a website. It handles access token creation as well as refresh. 
+This script grabs the most recent posts from the Instagram Basic Display API for a specified account so that you can display them on a website. It handles access token creation as well as refresh. 
 
 ## Overview
 
